@@ -6,10 +6,9 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-# url:                https://taylantatli.github.io/Moon
-url:                https://maniceuphoria.github.io
+url:                https://euphoray.rocks
 
 # Jekyll
 permalink:          /:title/
@@ -27,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   euphoray-rocks
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -42,18 +41,18 @@ disqus_shortname:   taylantatli
 # twitter:            username
 # facebook:           username
 github-url:         ManicEuphoria
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:      5818901/euphoray   from a "http://stackoverflow.com/users/5818901/euphoray" link
 #linkedin:          username
 #xing:              username
 # instagram:          username
-#lastfm:            username
+lastfm:             manic_euphoria
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
 # steam:              username
 #dribbble:          username
-youtube:           euphoria_ray
+# youtube:           euphoria_ray
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
